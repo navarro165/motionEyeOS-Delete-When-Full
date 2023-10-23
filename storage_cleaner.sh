@@ -7,11 +7,9 @@ drive_path='/motioneyes_nvr_ssd'  # drive where recordings are stored
 
 # camera names (subdirectories within the target drive)
 cameras=(
-  deck_alley_north_view
-  deck_alley_south_view
-  main_entrance_inside
-  rockwell_north_view
-  rockwell_south_view
+  camera_1
+  camera_2
+  camera_3
 )
 ######################
 ######################
